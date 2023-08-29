@@ -11,15 +11,19 @@ nav {
 
 .main {
     margin-top: 9px !important;
-    margin-right: 40px;
+    margin-right: 20px;
 }
 
 .about {
+    margin-right: 15px;
+}
+
+.contact {
     margin-right: 20px;
 }
 
 .mt-0 {
-    margin-left: 320px;
+    margin-left: 20px;
 }
 
 .right {
@@ -28,4 +32,8 @@ nav {
 
 img {
     margin-bottom: 7px;
+}
+
+.card1 {
+    border: 3px solid black;
 }
