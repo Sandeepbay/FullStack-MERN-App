@@ -1,0 +1,22 @@
+Project
+
+Techinically its a ecommerce webiste but the website will display all products known to human kind. 
+
+Final Output - MERN Full Stack App (Mongoose , Express , Node , React (frontend) 
+
+Project - It would be kinda like ebay - A Website where people can post products that they wanna sell. 
+
+It should have Authetication , It should be able to add Images , It should have comments , It should have the person(The one who is selling) details.
+
+
+- As I dont have very much deep knowledge to code a complete MERN App , lets start slow and divide the components to smaller fragments.
+- Lets make a Landing page using html and css.
+  - Think of a Website Name - Indian Goods
+  - It should have a navbar
+  - Have some details about the webiste
+- 2nd Slide would have About Us 
+- 3rd Slide would have Contatc Us
+
+Complete this and have an idea on what we are dealing with. 
+
+Use Chatgpt to its fullest  
