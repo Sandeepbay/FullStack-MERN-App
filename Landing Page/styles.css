@@ -41,3 +41,13 @@ img {
 .about {
     border-radius: 10px;
 }
+
+.abouttext , .contact {
+    display: flex;
+    justify-content: center;
+}
+
+.form {
+    border: 3px solid black;
+    margin: 0px 50px;
+}
